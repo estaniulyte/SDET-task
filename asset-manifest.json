@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%7Brepo-name%7D/static/css/main.6c80828d.css",
-    "main.js": "/%7Brepo-name%7D/static/js/main.0a73a8ed.js",
-    "static/media/Rubik-Regular.ttf": "/%7Brepo-name%7D/static/media/Rubik-Regular.da39336cfcac7980f2f1.ttf",
-    "static/media/Rubik-Medium.ttf": "/%7Brepo-name%7D/static/media/Rubik-Medium.5bd2b2c6ad8019567605.ttf",
-    "static/media/Rubik-SemiBold.ttf": "/%7Brepo-name%7D/static/media/Rubik-SemiBold.52d2adf4cb818e79b61d.ttf",
-    "static/media/Rubik-Bold.ttf": "/%7Brepo-name%7D/static/media/Rubik-Bold.383b8c94b12034c5e8b5.ttf",
-    "static/media/Rubik-ExtraBold.ttf": "/%7Brepo-name%7D/static/media/Rubik-ExtraBold.b30aba6dab6c09b0ebcc.ttf",
-    "static/media/Rubik-Light.ttf": "/%7Brepo-name%7D/static/media/Rubik-Light.7ee66bf7f540d7bbc3a1.ttf",
-    "static/media/unity.svg": "/%7Brepo-name%7D/static/media/unity.214dd0309ca3c6477a9f05205f686f13.svg",
-    "index.html": "/%7Brepo-name%7D/index.html",
-    "main.6c80828d.css.map": "/%7Brepo-name%7D/static/css/main.6c80828d.css.map",
-    "main.0a73a8ed.js.map": "/%7Brepo-name%7D/static/js/main.0a73a8ed.js.map"
+    "main.css": "/static/css/main.d3a1130c.css",
+    "main.js": "/static/js/main.c5739f0b.js",
+    "static/media/Rubik-Regular.ttf": "/static/media/Rubik-Regular.da39336cfcac7980f2f1.ttf",
+    "static/media/Rubik-Medium.ttf": "/static/media/Rubik-Medium.5bd2b2c6ad8019567605.ttf",
+    "static/media/Rubik-SemiBold.ttf": "/static/media/Rubik-SemiBold.52d2adf4cb818e79b61d.ttf",
+    "static/media/Rubik-Bold.ttf": "/static/media/Rubik-Bold.383b8c94b12034c5e8b5.ttf",
+    "static/media/Rubik-ExtraBold.ttf": "/static/media/Rubik-ExtraBold.b30aba6dab6c09b0ebcc.ttf",
+    "static/media/Rubik-Light.ttf": "/static/media/Rubik-Light.7ee66bf7f540d7bbc3a1.ttf",
+    "static/media/unity.svg": "/static/media/unity.214dd0309ca3c6477a9f05205f686f13.svg",
+    "index.html": "/index.html",
+    "main.d3a1130c.css.map": "/static/css/main.d3a1130c.css.map",
+    "main.c5739f0b.js.map": "/static/js/main.c5739f0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c80828d.css",
-    "static/js/main.0a73a8ed.js"
+    "static/css/main.d3a1130c.css",
+    "static/js/main.c5739f0b.js"
   ]
 }
