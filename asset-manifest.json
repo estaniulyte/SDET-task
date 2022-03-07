@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SDET-task/static/css/main.3bb7d8b5.css",
-    "main.js": "/SDET-task/static/js/main.60c1a08d.js",
+    "main.css": "/SDET-task/static/css/main.767d5032.css",
+    "main.js": "/SDET-task/static/js/main.05d046c9.js",
     "static/media/Rubik-Regular.ttf": "/SDET-task/static/media/Rubik-Regular.da39336cfcac7980f2f1.ttf",
     "static/media/Rubik-Medium.ttf": "/SDET-task/static/media/Rubik-Medium.5bd2b2c6ad8019567605.ttf",
     "static/media/Rubik-SemiBold.ttf": "/SDET-task/static/media/Rubik-SemiBold.52d2adf4cb818e79b61d.ttf",
@@ -10,11 +10,11 @@
     "static/media/Rubik-Light.ttf": "/SDET-task/static/media/Rubik-Light.7ee66bf7f540d7bbc3a1.ttf",
     "static/media/unity.svg": "/SDET-task/static/media/unity.214dd0309ca3c6477a9f05205f686f13.svg",
     "index.html": "/SDET-task/index.html",
-    "main.3bb7d8b5.css.map": "/SDET-task/static/css/main.3bb7d8b5.css.map",
-    "main.60c1a08d.js.map": "/SDET-task/static/js/main.60c1a08d.js.map"
+    "main.767d5032.css.map": "/SDET-task/static/css/main.767d5032.css.map",
+    "main.05d046c9.js.map": "/SDET-task/static/js/main.05d046c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bb7d8b5.css",
-    "static/js/main.60c1a08d.js"
+    "static/css/main.767d5032.css",
+    "static/js/main.05d046c9.js"
   ]
 }
